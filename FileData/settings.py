@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-p&ndq3zhqa5e@5%oftj^*wqi64z_(v)sdfka4u+xcaxqtd$^)x
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['your-myFileData.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['https://filereader-591k.onrender.com', 'localhost', '127.0.0.1']
 
 
 
